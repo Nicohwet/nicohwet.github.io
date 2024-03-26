@@ -1,0 +1,4 @@
+Sitemap: https://nicohwet.github.io/sitemap.xml
+
+User-agent: *
+Disallow:
